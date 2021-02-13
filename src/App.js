@@ -18,19 +18,19 @@ function App() {
         desc="Money-back guarntee"
         descLink=''
         backgroundImg={SolarRoof}
-        leftBtnTxt=''
+        leftBtnTxt='Order Now'
         leftBtnLink=''
         rightBtnTxt='LEARN MORE'
         rightBtnLink=''
         twoButtons='true'
-        first
+        first='true'
         />
         <Item 
         title="Model S"
         desc="Money-back guarntee"
         descLink=''
         backgroundImg={ModelS}
-        leftBtnTxt=''
+        leftBtnTxt='Buy'
         leftBtnLink=''
         rightBtnTxt='LEARN MORE'
         rightBtnLink=''
@@ -41,36 +41,36 @@ function App() {
         desc="Money-back guarntee"
         descLink=''
         backgroundImg={ModelY}
-        leftBtnTxt=''
+        leftBtnTxt='Buy'
         leftBtnLink=''
         rightBtnTxt='LEARN MORE'
         rightBtnLink=''
         twoButtons='true'
-        first
+        
         />
         <Item 
         title="Model X"
         desc="Money-back guarntee"
         descLink=''
         backgroundImg={ModelX}
-        leftBtnTxt=''
+        leftBtnTxt='Buy'
         leftBtnLink=''
         rightBtnTxt='LEARN MORE'
         rightBtnLink=''
         twoButtons='true'
-        first
+      
         />
         <Item 
         title="Model 3"
         desc="Money-back guarntee"
         descLink=''
         backgroundImg={Model3}
-        leftBtnTxt=''
+        leftBtnTxt='Buy'
         leftBtnLink=''
         rightBtnTxt='LEARN MORE'
         rightBtnLink=''
         twoButtons='true'
-        first
+    
         />
       </div>
 

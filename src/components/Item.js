@@ -14,12 +14,14 @@ const Item = ({title,desc,backgroundImg,leftBtnTxt,rightBtnTxt,leftBtnLink,right
                     <div className="item_buttons">
                         <Button imp='primary' text={leftBtnTxt} link={leftBtnLink} />
                         {twoButtons && (<Button imp='secondary' text={rightBtnTxt} link={rightBtnLink} />)}
+                    
                     </div>
                     {first && (
                         <div className='item__expand'>
                         <ExpandMoreIcon />
                         </div>
                     )}
+                    
                 </div>
 
             </div>
