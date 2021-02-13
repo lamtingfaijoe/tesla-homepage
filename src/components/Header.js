@@ -1,6 +1,9 @@
 import React from 'react'
 import './Hearer.css'
 import TeslaLogo from '../assets/teslaLogoSmall.svg'
+
+
+
 const Header = () => {
     return (
         <div className='header'>
