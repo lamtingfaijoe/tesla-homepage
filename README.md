@@ -18,4 +18,12 @@ npm install
 npm start
 ```
 
+---
+
 ## Content of the page
+
+**Homepage**
+![HomePage](./image/image2.jpg)
+
+**Scroll Down**
+![HomePage](./image/image1.jpg)
